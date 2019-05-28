@@ -2,6 +2,7 @@
 * Add file save and view to example application
 * Convert print screen example to Widgets
 * Deprecate the document argument in Printing.sharePdf()
+* Fix issue with flutter 1.6.x
 
 # 2.0.2
 * Fix example application
